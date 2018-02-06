@@ -12,6 +12,7 @@
 		4891E174202912380012E056 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4891E172202912380012E056 /* Main.storyboard */; };
 		4891E176202912380012E056 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4891E175202912380012E056 /* Assets.xcassets */; };
 		4891E179202912380012E056 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4891E177202912380012E056 /* LaunchScreen.storyboard */; };
+		4891E18120298F720012E056 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4891E18020298F720012E056 /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4891E175202912380012E056 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4891E178202912380012E056 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4891E17A202912380012E056 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4891E18020298F720012E056 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4891E16E202912380012E056 /* AppDelegate.swift */,
 				4891E170202912380012E056 /* ViewController.swift */,
 				4891E172202912380012E056 /* Main.storyboard */,
+				4891E18020298F720012E056 /* secondViewController.swift */,
 				4891E175202912380012E056 /* Assets.xcassets */,
 				4891E177202912380012E056 /* LaunchScreen.storyboard */,
 				4891E17A202912380012E056 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4891E171202912380012E056 /* ViewController.swift in Sources */,
+				4891E18120298F720012E056 /* secondViewController.swift in Sources */,
 				4891E16F202912380012E056 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
