@@ -16,7 +16,7 @@ class secondViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-    self.secondTabLabel.text = "Tab Two"
+    self.secondTabLabel.text = "Enter Degrees Farenheit"
     }
 
     override func didReceiveMemoryWarning() {
